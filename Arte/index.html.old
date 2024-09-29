@@ -1,0 +1,278 @@
+<!DOCTYPE HTML>
+<!--
+	Multiverse by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>Art | Luca Rossicone</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="icon" href="/images/terminal.svg">
+	<noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" />
+	</noscript>
+</head>
+
+<body class="is-preload">
+
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Header -->
+		<header id="header">
+			<h1><a href="../index.html"><strong>Go Back</strong> to Home Page</a></h1>
+			<nav>
+				<ul>
+					<!-- <li><a href="#footer" class="icon solid fa-info-circle">About</a></li> -->
+				</ul>
+			</nav>
+		</header>
+
+		<!-- Main -->
+		<div id="main">
+			<article class="thumb">
+				<a href="images/fulls/1.jpg" class="image"><img src="images/thumbs/1.jpg" alt="" /></a>
+				<h2>Preghiere 1</h2>
+				<p>Il primo disegno di questa collezione.</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/2.jpg" class="image"><img src="images/thumbs/2.jpg" alt="" /></a>
+				<h2>Mate</h2>
+				<p>"And I say
+					Hey, hey hey hey
+					Living like we're renegades
+					Hey hey hey
+					Hey hey hey
+					Living like we're renegades
+					Renegades, renegades"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/3.jpg" class="image"><img src="images/thumbs/3.jpg" alt="" /></a>
+				<h2>Target</h2>
+				<p>"Col mio soffio di vulcano
+					Cancellerò il gelo di questa stanza
+					E col volo di una freccia
+					Trafiggerò quella pallida luna a distanza"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/4.jpg" class="image"><img src="images/thumbs/4.jpg" alt="" /></a>
+				<h2>Mirror</h2>
+				<p>"The pain gets so much clearer
+					When the one to blame
+					Is standing in the mirror"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/5.jpg" class="image"><img src="images/thumbs/5.jpg" alt="" /></a>
+				<h2>Icarus</h2>
+				<p>"Heaven's gates won't open up for me
+					With these broken wings I'm fallin' and all I see is you"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/6.jpg" class="image"><img src="images/thumbs/6.jpg" alt="" /></a>
+				<h2>Floor</h2>
+				<p>"Considero valore usare il verbo amare
+					L'ipotesi che esista un unico creatore"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/7.jpg" class="image"><img src="images/thumbs/7.jpg" alt="" /></a>
+				<h2>Waiting</h2>
+				<p>"Cosa fai? Quel che posso!
+					Cosa sei? Sono io!
+					Come stai? Me la cavo!
+					Dove vai? Avanti avanti!"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/8.jpg" class="image"><img src="images/thumbs/8.jpg" alt="" /></a>
+				<h2>Preghiere 8</h2>
+				<p>Questo quadro è uno dei più densi di significato per me, ma contemporaneamente uno dei più poveri di
+					stima da parte mia.</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/9.jpg" class="image"><img src="images/thumbs/9.jpg" alt="" /></a>
+				<h2>Litost</h2>
+				<p>"What have I done,
+					With my heart on the floor.
+					I must be out of my mind
+					To come back begging for more"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/10.jpg" class="image"><img src="images/thumbs/10.jpg" alt="" /></a>
+				<h2>Rise</h2>
+				<p>"Let the fire inside of me
+					Take me over
+					Brighter for all to see
+					As the world grows colder
+					Find me on my knees and take me higher
+					Out of the wasted lives
+					I will, I will rise"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/11.jpg" class="image"><img src="images/thumbs/11.jpg" alt="" /></a>
+				<h2>Arguing</h2>
+				<p>"I can whisper, I can yell
+					But I know, yeah I know, yeah I know
+					I'm just talking to myself
+					Talking to myself"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/12.jpg" class="image"><img src="images/thumbs/12.jpg" alt="" /></a>
+				<h2>Dialogue</h2>
+				<p>"Tell me
+					Why does everything that I love
+					Get taken away from me"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/13.jpg" class="image"><img src="images/thumbs/13.jpg" alt="" /></a>
+				<h2>Clocktower</h2>
+				<p>Questo è stato il mio primo esperimento in digitale. Daredevil oggi come allora è il mio supereroe
+					Marvel preferito.</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/14.jpg" class="image"><img src="images/thumbs/14.jpg" alt="" /></a>
+				<h2>Cry</h2>
+				<p>"Où t'es, Papaoutai
+					Où t'es, Papaoutai
+					Où t'es, Papaoutai
+					Où t'es, où t'es Papaoutai!?"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/15.jpg" class="image"><img src="images/thumbs/15.jpg" alt="" /></a>
+				<h2>Presence</h2>
+				<p>"E così sarà, buon Signore
+					Che il corpo del tuo vecchio servo
+					Sette volte darà frutto
+					Sette volte fiorirà"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/16.jpg" class="image"><img src="images/thumbs/16.jpg" alt="" /></a>
+				<h2>Shout</h2>
+				<p>"Shout, shout, let it all out
+					These are the things I can do without
+					Come on
+					I'm talking to you, come on"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/17.jpg" class="image"><img src="images/thumbs/17.jpg" alt="" /></a>
+				<h2>Secret</h2>
+				<p>"You're my back bone, you're me cornerstone
+					You're my crutch when my legs stop moving
+					You're my headstart, you're my rugged heart
+					You're the pokes that I've always needed
+					Like a drum baby don't stop beating
+					Like a drum baby don't stop beating
+					Like a drum baby don't stop beating
+					Like a drum my heart never stops beating"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/18.jpg" class="image"><img src="images/thumbs/18.jpg" alt="" /></a>
+				<h2>Floating</h2>
+				<p>"And I am aware now of how
+					Everything's gonna be fine one day
+					Too late, I'm in hell
+					I am prepared now
+					Seems everyone's gonna be fine
+					One day too late just as well"</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/19.jpg" class="image"><img src="images/thumbs/19.jpg" alt="" /></a>
+				<h2>Gargoyle</h2>
+				<p>Compito di liceo per Storia dell'Arte</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/20.jpg" class="image"><img src="images/thumbs/20.jpg" alt="" /></a>
+				<h2>Responsibility</h2>
+				<p>"Me l'avevi detto... Me l'avevi detto..."</p>
+				<p>"tuo padre... Credeva che se c'erano delle cose che potevi dare al mondo, se sapevi fare bene certe
+					cose... Meglio di chiunque altro... Per aiutare la gente o per farla stare meglio... Bè credeva che
+					fosse tua responsabilità farle."</p>
+				<p>"perché non l'hai fermato?" "non spetta a me"</p>
+				<p>"Succederanno grandi cose nella tua vita, Peter. Grandi cose. E queste comporteranno grandi responsabilità. Mi capisci?"</p>
+				<p>"Adesso sì."</p>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/21.jpg" class="image"><img src="images/thumbs/21.jpg" alt="" /></a>
+				<h2>Stag</h2>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/22.jpg" class="image"><img src="images/thumbs/22.jpg" alt="" /></a>
+				<h2>Wolf</h2>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/23.jpg" class="image"><img src="images/thumbs/23.jpg" alt="" /></a>
+				<h2>Hawk</h2>
+			</article>
+			<article class="thumb">
+				<a href="images/fulls/24.jpg" class="image"><img src="images/thumbs/24.jpg" alt="" /></a>
+				<h2>Totem</h2>
+			</article>
+		</div>
+
+		<!-- Footer
+		<footer id="footer" class="panel">
+			<div class="inner split">
+				<div>
+					<section>
+						<h2>Magna feugiat sed adipiscing</h2>
+						<p>Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum
+							eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu
+							bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor
+							tincidunt erat, et scelerisque turpis ipsum.</p>
+					</section>
+					<section>
+						<h2>Follow me on ...</h2>
+						<ul class="icons">
+							<li><a href="https://www.facebook.com/lucarossicone98/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a>
+							</li>
+							<li><a href="https://www.instagram.com/lucarossicone/?hl=it" class="icon brands fa-instagram"><span class="label">Instagram</span></a>
+							</li>
+							<li><a href="https://github.com/LR-Cumulus" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a>
+							</li>
+						</ul>
+					</section>
+					<p class="copyright">
+						&copy; Unttled. Design: <a href="http://html5up.net">HTML5 UP</a>.
+					</p>
+				</div>
+				<div>
+					<section>
+						<h2>Get in touch</h2>
+						<form method="post" action="#">
+							<div class="fields">
+								<div class="field half">
+									<input type="text" name="name" id="name" placeholder="Name" />
+								</div>
+								<div class="field half">
+									<input type="text" name="email" id="email" placeholder="Email" />
+								</div>
+								<div class="field">
+									<textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
+								</div>
+							</div>
+							<ul class="actions">
+								<li><input type="submit" value="Send" class="primary" /></li>
+								<li><input type="reset" value="Reset" /></li>
+							</ul>
+						</form>
+					</section>
+				</div>
+			</div>
+		</footer> -->
+
+	</div>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.poptrox.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
