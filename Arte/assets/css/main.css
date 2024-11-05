@@ -434,6 +434,12 @@ p#author {
 	font-size: large;
 }
 
+p#details {
+	font-weight: bolder;
+	/* font-size: large; */
+	margin-bottom: 0;
+}
+
 body.is-ie p {
 	width: 100%;
 }
@@ -2447,6 +2453,7 @@ button:disabled,
 	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #958a7c 20%, #ccc1b3 60%, #cdc4ba);
 	background-size: 128px 128px, auto;
 	background-color: #ccc1b3;
+	font-size: smaller;
 }
 
 .panel>*.color18 {
@@ -2466,6 +2473,7 @@ button:disabled,
 	background-size: 128px 128px, auto;
 	background-color: #dfdfdf;
 	color: black;
+	font-size: smaller;
 }
 
 .panel>*.color25 {
