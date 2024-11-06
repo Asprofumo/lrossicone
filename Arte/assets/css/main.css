@@ -458,16 +458,28 @@ h6 {
 	letter-spacing: -0.05em;
 }
 
-h2._16 {
+h2._16,h2._p {
 	color: #515151;
 }
 
-h2._13 {
+h2._13,h2._p {
 	color: #2f2f2f;
 }
 
-h2._20 {
+h2._20,h2._p {
 	color: #616161;
+}
+
+h2._25,h2._p {
+	color: #575757;
+}
+
+h2._26,h2._p {
+	color: #5b5b5b;
+}
+
+h2._27,h2._p {
+	color: #3e3e3e;
 }
 
 #back {
@@ -2477,21 +2489,21 @@ button:disabled,
 }
 
 .panel>*.color25 {
-	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #848484 20%, #dfdfdf 60%, #313131);
+	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #a6a898 20%, #b1b4a3 60%, #848776);
 	background-size: 128px 128px, auto;
 	background-color: #dfdfdf;
 	color: black;
 }
 
 .panel>*.color26 {
-	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #848484 20%, #dfdfdf 60%, #313131);
+	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #808080 20%, #c4c4c4 60%, #b0b0b0);
 	background-size: 128px 128px, auto;
 	background-color: #dfdfdf;
 	color: black;
 }
 
 .panel>*.color27 {
-	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #848484 20%, #dfdfdf 60%, #313131);
+	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #868686 20%, #bbb 60%, #959595);
 	background-size: 128px 128px, auto;
 	background-color: #dfdfdf;
 	color: black;
@@ -4223,3 +4235,5 @@ body.is-preload #wrapper {
 	}
 
 }
+
+/* main.css | http://0.0.0.0:4444/Arte/assets/css/main.css */
