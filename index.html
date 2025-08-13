@@ -12,15 +12,195 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<link rel="icon" href="images/terminal.svg">
+	<style>
+		/* Migliora la spaziatura tra le sezioni */
+		section {
+			margin-bottom: 2.5em;
+		}
+
+		/* Migliora la leggibilità del testo */
+		body {
+			font-size: 1.1em;
+			line-height: 1.7;
+		}
+
+		/* Barra di navigazione */
+		#navbar {
+			background: #222;
+			color: #fff;
+			padding: 0.7em 0;
+			text-align: center;
+			position: sticky;
+			top: 0;
+			z-index: 100;
+		}
+
+		#navbar a {
+			color: #fff;
+			margin: 0 1em;
+			text-decoration: none;
+			font-weight: bold;
+			transition: color 0.2s;
+		}
+
+		#navbar a:hover {
+			color: #00bfff;
+		}
+
+		/* Migliora i bottoni */
+		.button {
+			transition: background 0.2s, color 0.2s;
+		}
+
+		.button:hover {
+			background: #00bfff;
+			color: #fff;
+		}
+
+		/* Migliora le icone social */
+		.icons .icon {
+			font-size: 2em;
+			margin: 0 0.3em;
+			transition: transform 0.2s, color 0.2s;
+		}
+
+		.icons .icon:hover {
+			transform: scale(1.2);
+			color: #00bfff;
+		}
+
+		/* Migliora il footer */
+		#footer {
+			background: #222;
+			color: #fff;
+			padding: 2em 0 1em 0;
+			text-align: center;
+		}
+
+		#footer h3,
+		#footer p {
+			color: #fff;
+		}
+
+		/* Frase d'impatto sotto il nome */
+		#header .subtitle {
+			font-size: 1.2em;
+			color: #00bfff;
+			margin-top: 0.5em;
+			font-weight: 500;
+			letter-spacing: 1px;
+		}
+
+		/* Fade-in animazione */
+		.fade-in {
+			opacity: 0;
+			transform: translateY(30px);
+			animation: fadeInUp 0.8s forwards;
+		}
+
+		@keyframes fadeInUp {
+			to {
+				opacity: 1;
+				transform: none;
+			}
+		}
+
+		/* Card passioni */
+		.card {
+			background: #222222;
+			border-radius: 12px;
+			box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+			padding: 1.2em;
+			margin-bottom: 1.2em;
+			transition: box-shadow 0.2s;
+			max-width: 350px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		.card:hover {
+			box-shadow: 0 4px 24px rgba(0, 191, 255, 0.18);
+		}
+
+		.card img {
+			max-width: 100%;
+			border-radius: 8px;
+			margin-bottom: 0.7em;
+		}
+
+		/* Competenze */
+		.skills {
+			display: flex;
+			justify-content: center;
+			gap: 2em;
+			flex-wrap: wrap;
+			margin: 1.5em 0;
+		}
+
+		.skill-item {
+			text-align: center;
+			color: #222;
+		}
+
+		.skill-item i {
+			font-size: 2.2em;
+			color: #00bfff;
+			margin-bottom: 0.3em;
+		}
+
+		.skill-item span {
+			display: block;
+			font-size: 1em;
+			margin-top: 0.2em;
+		}
+
+		/* Footer leggibile */
+		#footer {
+			font-size: 1em;
+			letter-spacing: 0.5px;
+		}
+
+		/* Responsive card e skills */
+		@media (max-width: 900px) {
+			.skills {
+				gap: 1em;
+			}
+
+			.card {
+				padding: 1em;
+				max-width: 95vw;
+			}
+		}
+
+		@media (max-width: 600px) {
+			.skills {
+				flex-direction: column;
+				align-items: center;
+			}
+
+			.card {
+				margin-bottom: 1em;
+				padding: 0.7em;
+			}
+		}
+	</style>
 </head>
 
 <body class="is-preload">
+
+	<!-- Barra di navigazione -->
+	<nav id="navbar">
+		<a href="#one">Chi sono</a>
+		<a href="#two">Passioni</a>
+		<a href="#footer">Social</a>
+	</nav>
 
 	<!-- Header -->
 	<header id="header">
 		<div class="inner">
 			<a href="#" class="image avatar"><img src="images/propic.jpg" alt="" /></a>
 			<h1>Ciao, sono <strong>Luca Rossicone</strong>.</h1>
+			<div class="subtitle">Costruisco soluzioni sicure e creative con passione e curiosità.</div>
 		</div>
 	</header>
 
@@ -28,36 +208,65 @@
 	<div id="main">
 
 		<!-- One -->
-		<section id="one">
+		<section id="one" class="fade-in">
 			<header class="major">
-				<h2>Who_Am_I.</h2>
+				<h2>Chi sono</h2>
 			</header>
-			<p>Ho frequentato il liceo scientifico dal 2012 e mi sono diplomato nel 2017. </br>
-				Successivamente mi sono iscritto a ingegneria informatica e mi sono laureato prima al corso di laurea
-				triennale nell'ottobre 2020 e poi al corso di laurea magistrale nel marzo 2023. </br>
-				Lavoro nel campo della sicurezza informatica dal maggio 2022. </br>
-				Tiro con l'arco da luglio 2022. </br>
-				Amo i videogiochi e mi piace giocare ai giochi da tavolo. </br>
-				Sono un modesto appassionato di cinema e mi piace ascoltare tutti i tipi di musica, soprattutto
-				synthwave.
+			<p>
+				Ingegnere informatico appassionato di sicurezza, arte e tecnologia.<br>
+			</p>
+			<ul>
+				<li>Diplomato al liceo scientifico (2017)</li>
+				<li>Laurea triennale e magistrale in ingegneria informatica</li>
+				<li>Esperienza lavorativa nella sicurezza informatica dal 2022</li>
+				<li>Appassionato di tiro con l'arco, videogiochi, giochi da tavolo, cinema e musica synthwave</li>
+			</ul>
+			<p>
+				Sono sempre curioso di imparare e aperto a nuove sfide. <br>
+				Contattami per collaborazioni o semplicemente per fare due chiacchiere!
 			</p>
 			<ul class="actions">
 				<li><a href="./CV_Rossicone_05082022.pdf" class="button">Guarda il mio CV</a></li>
 			</ul>
 		</section>
 
+		<!-- Sezione Competenze -->
+		<section id="skills" class="fade-in">
+			<header class="major">
+				<h2>Competenze</h2>
+			</header>
+			<div class="skills">
+				<div class="skill-item">
+					<i class="icon solid fa-shield-alt"></i>
+					<span>Sicurezza Informatica</span>
+				</div>
+				<div class="skill-item">
+					<i class="icon solid fa-code"></i>
+					<span>Programmazione</span>
+				</div>
+				<div class="skill-item">
+					<i class="icon solid fa-paint-brush"></i>
+					<span>Grafica Digitale</span>
+				</div>
+				<div class="skill-item">
+					<i class="icon solid fa-users"></i>
+					<span>Teamwork</span>
+				</div>
+			</div>
+		</section>
+
 		<!-- Two -->
-		<section id="two">
+		<section id="two" class="fade-in">
 			<h2>Le mie passioni</h2>
 			<div class="row">
-				<article class="col-6 col-12-xsmall work-item">
-					<a href="Arte/" class="image solid fit"><img src="images/thumbs/01.png" alt="" /></a>
+				<article class="col-6 col-12-xsmall card work-item">
+					<a href="Arte/" class="image solid fit"><img src="images/thumbs/01.png" alt="Disegni" /></a>
 					<h3>I miei Disegni</h3>
 					<p><a href="Arte/">Arte</a>. Una cornice contenente i miei disegni digitali e cartacei più recenti.
 					</p>
 				</article>
-				<article class="col-6 col-12-xsmall work-item">
-					<a href="Posti/" class="image fit "><img src="images/thumbs/02.png" alt="" /></a>
+				<article class="col-6 col-12-xsmall card work-item">
+					<a href="Posti/" class="image fit"><img src="images/thumbs/02.png" alt="Spazi" /></a>
 					<h3>I miei Spazi</h3>
 					<p><a href="Posti/">Posti</a>. Un acquario immerso nei miei luoghi preferiti.</p>
 				</article>
@@ -106,8 +315,16 @@
 		<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
 		<script>
 			const darkMode = window.matchMedia("(prefers-color-scheme:dark)").matches;
+
+			// Fade-in animazione per le sezioni
+			document.addEventListener("DOMContentLoaded", function () {
+				document.querySelectorAll('.fade-in').forEach(function (el, i) {
+					setTimeout(() => el.style.animationDelay = (i * 0.2) + "s", 0);
+				});
+			});
 		</script>
 
+	</div>
 </body>
 
 </html>
