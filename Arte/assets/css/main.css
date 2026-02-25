@@ -482,6 +482,10 @@ h2._27,h2._p {
 	color: #3e3e3e;
 }
 
+h2._29,h2._p {
+	color: #303437;
+}
+
 #back {
 	color: #2e2b37;
 	border-color: #353865;
@@ -2511,6 +2515,27 @@ button:disabled,
 
 .panel>*.color28 {
 	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #868686 20%, #bbb 60%, #959595);
+	background-size: 128px 128px, auto;
+	background-color: #dfdfdf;
+	color: white;
+}
+
+.panel>*.color29 {
+	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #5e6061 20%, #dadada 60%, #dadada);
+	background-size: 128px 128px, auto;
+	background-color: #dfdfdf;
+	color: #303437;
+}
+
+.panel>*.color30 {
+	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #585858 20%, #30323C 60%, #30323C);
+	background-size: 128px 128px, auto;
+	background-color: #dadada;
+	color: white;
+}
+
+.panel>*.color31 {
+	background-image: url("../../images/overlay.png"), linear-gradient(45deg, #bbb 20%, #3C3C3C 60%, #3C3C3C);
 	background-size: 128px 128px, auto;
 	background-color: #dfdfdf;
 	color: white;
